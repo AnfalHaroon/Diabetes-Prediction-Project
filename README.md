@@ -62,8 +62,11 @@ The dataset includes the following features:
 
 # Business Insight
 
-_ The dataset is imbalanced (more non-diabetic cases than diabetic).
+_ The dataset is imbalanced (more non-
+diabetic cases than diabetic).
+
 _ Glucose levels appear to be a key factor in predicting diabetes.
+
 _ BMI and Age may also influence the outcome.
 
 Early prediction of diabetes can help healthcare providers identify high-risk patients and take preventive actions, reducing long-term complications and healthcare costs.
